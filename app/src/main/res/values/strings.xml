@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Hangman Game</string>
+    <string name="game_title">Hangman Game</string>
+    <string name="score">Score:</string>
+    <string name="find_word">Find this Word:</string>
+    <string name="letter_found">Letter found!</string>
+    <string name="letter_incorrect">Incorrect letter!</string>
+    <string name="confirm_restart">Confirm Restart</string>
+    <string name="confirm_restart_message">Do you really want to restart the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="preferences">Preferences</string>
+    <string name="history">History</string>
+    <string name="save_preferences">Save Preferences</string>
+    <string name="open_dictionary">Open Dictionary</string>
+    <string name="select_game_language">Select Game Language</string>
+    <string name="select_difficulty_level">Select Difficulty Level</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_lose">You lose - the word was:</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="preferences_saved">Preferences saved</string>
+    <string name="back">Back</string>
+    <string name="start_game">Start Game</string>
+    <string name="preferences_button">Preferences</string>
+    <string name="history_button">History</string>
+    <string name="word_played">Word Played:</string>
+    <string name="difficulty_level">Difficulty Level:</string>
+    <string name="game_duration">Game Duration:</string>
+    <string name="date">Date:</string>
+    <string name="duration">Duration:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="word">Word:</string>
+    <string name="word_added">Word added successfully</string>
+    <string name="word_not_added">Failed to add word</string>
+    <string name="enter_word">Please enter a word</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="select_language">Select Language</string>
+    <string name="add_word">Add Word</string>
+    <string name="select_word_to_delete">Select Word to Delete</string>
+    <string name="delete_word">Delete Word</string>
+    <string name="word_deleted">Word deleted successfully</string>
+    <string name="word_not_deleted">Failed to delete word</string>
+    <string-array name="difficulties">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+    </string-array>
+
+    <!-- Bank of words -->
+    <string-array name="words_easy_english">
+        <item>ANDROID</item>
+        <item>KOTLIN</item>
+        <item>GOOGLE</item>
+    </string-array>
+    <string-array name="words_medium_english">
+        <item>DEVELOPER</item>
+        <item>PROGRAMMING</item>
+        <item>LANGUAGE</item>
+    </string-array>
+    <string-array name="words_hard_english">
+        <item>CONCURRENCY</item>
+        <item>RECYCLERVIEW</item>
+        <item>ARCHITECTURE</item>
+    </string-array>
+    <string-array name="words_easy_french">
+        <item>ANDROID</item>
+        <item>KOTLIN</item>
+        <item>GOOGLE</item>
+    </string-array>
+    <string-array name="words_medium_french">
+        <item>DÉVELOPPEUR</item>
+        <item>PROGRAMMATION</item>
+        <item>LANGAGE</item>
+    </string-array>
+    <string-array name="words_hard_french">
+        <item>CONCURRENCE</item>
+        <item>RECYCLERVIEW</item>
+        <item>ARCHITECTURE</item>
+    </string-array>
+</resources>

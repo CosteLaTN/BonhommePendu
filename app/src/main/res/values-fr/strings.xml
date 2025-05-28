@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Jeu du Pendu</string>
+    <string name="game_title">Jeu du Pendu</string>
+    <string name="score">Score :</string>
+    <string name="find_word">Trouver ce Mot :</string>
+    <string name="letter_found">Lettre trouvée !</string>
+    <string name="letter_incorrect">Lettre incorrecte !</string>
+    <string name="confirm_restart">Confirmer le redémarrage</string>
+    <string name="confirm_restart_message">Voulez-vous vraiment redémarrer la partie ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="preferences">Préférences</string>
+    <string name="history">Historique</string>
+    <string name="save_preferences">Sauvegarder les préférences</string>
+    <string name="open_dictionary">Ouvrir le Dictionnaire</string>
+    <string name="select_game_language">Sélectionnez la langue du jeu</string>
+    <string name="select_difficulty_level">Sélectionnez le niveau de difficulté</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="congratulations">Félicitations !</string>
+    <string name="you_lose">Vous avez perdu - le mot était :</string>
+    <string name="restart_game">Recommencer le Jeu</string>
+    <string name="preferences_saved">Préférences sauvegardées</string>
+    <string name="back">Retour</string>
+    <string name="start_game">Débuter le Jeu</string>
+    <string name="preferences_button">Préférences</string>
+    <string name="history_button">Historique</string>
+    <string name="word_played">Mot joué :</string>
+    <string name="difficulty_level">Niveau de difficulté :</string>
+    <string name="game_duration">Durée du jeu :</string>
+    <string name="date">Date:</string>
+    <string name="duration">Duration:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="word">Word:</string>
+    <string name="word_added">Mot ajouté avec succès</string>
+    <string name="word_not_added">Échec de lajout du mot</string>
+    <string name="enter_word">Veuillez entrer un mot</string>
+    <string name="select_difficulty">Sélectionnez la difficulté</string>
+    <string name="select_language">Sélectionnez la langue</string>
+    <string name="add_word">Ajouter un mot</string>
+    <string name="select_word_to_delete">Sélectionnez le mot à supprimer</string>
+    <string name="delete_word">Supprimer le mot</string>
+    <string name="word_deleted">Mot supprimé avec succès</string>
+    <string name="word_not_deleted">Échec de la suppression du mot</string>
+    <string-array name="difficulties">
+        <item>Facile</item>
+        <item>Moyen</item>
+        <item>Difficile</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Anglais</item>
+        <item>Français</item>
+    </string-array>
+
+    <!-- Bank of words -->
+    <string-array name="words_easy_french">
+        <item>ANDROID</item>
+        <item>KOTLIN</item>
+        <item>GOOGLE</item>
+    </string-array>
+    <string-array name="words_medium_french">
+        <item>DÉVELOPPEUR</item>
+        <item>PROGRAMMATION</item>
+        <item>LANGAGE</item>
+    </string-array>
+    <string-array name="words_hard_french">
+        <item>CONCURRENCE</item>
+        <item>RECYCLERVIEW</item>
+        <item>ARCHITECTURE</item>
+    </string-array>
+</resources>
